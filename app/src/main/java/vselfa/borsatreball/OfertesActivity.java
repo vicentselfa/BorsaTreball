@@ -10,4 +10,7 @@ public class OfertesActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ofertes);
     }
+
+
+    // A desenvolupar
 }
